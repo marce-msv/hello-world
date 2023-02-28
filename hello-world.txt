@@ -2,3 +2,5 @@ This is my first thing to do in Git
 
 After I'll put a second line to my document,
 this should show a difference with the last doc.
+
+Third change, not commited yet
