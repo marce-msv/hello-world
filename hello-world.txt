@@ -4,3 +4,7 @@ After I'll put a second line to my document,
 this should show a difference with the last doc.
 
 Third change, not commited yet
+
+We are doing stuff, adding mor archives
+
+and things like that
